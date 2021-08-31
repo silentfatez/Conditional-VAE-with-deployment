@@ -6,18 +6,17 @@ import numpy as np
 from typing import Optional
 
 
-
 class Features(BaseModel):
 
     """This class from the pydantic helps checks
     the type of variable coming in
     """
-    latent1: float #parameter for latent variable in first axis
-    latent2: float #parameter for latent variable in second axis
-    type: int #type of image producing(category number)
-    number: int #number of images producing
-    max_z: Optional[float] = 3.0 #max_z for when producing multiple images 
-    #will produce intervals to the max
+    latent1: float  # parameter for latent variable in first axis
+    latent2: float  # parameter for latent variable in second axis
+    type: int  # type of image producing(category number)
+    number: int  # number of images producing
+    max_z: Optional[float] = 3.0  # max_z for when producing multiple images
+    # will produce intervals to the max
 
 
 n_z = 2  # latent space size
@@ -55,7 +54,7 @@ def home():
 
         Dict: passes a message to show that webpage is up
     """
-  
+
     return {'ML to create images'}
 
 
