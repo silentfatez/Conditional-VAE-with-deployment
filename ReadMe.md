@@ -24,11 +24,11 @@
 |       ui.html
 |
 +---Fastapi
-|   |   decoder.h5
-|   |   Dockerfile
-|   |   main.py
-|   |   requirements.txt
-|   |
+|      decoder.h5
+|      Dockerfile
+|      main.py
+|      requirements.txt
+|   
 
 |
 +---models
@@ -39,11 +39,11 @@
 |       vae.ipynb
 |
 \---User_interface
-    |   decoder.h5
-    |   Dockerfile
-    |   requirements.txt
-    |   ui.py
-    |
+       decoder.h5
+       Dockerfile
+       requirements.txt
+       ui.py
+    
   
 ```
 ## Introduction
