@@ -61,4 +61,5 @@ Here is a generated image from the CVAE by tweaking the latent variables while u
 
 ## Additional Information
 basecode for CVAE models gotten from:
+
 (https://github.com/nnormandin/Conditional_VAE)
