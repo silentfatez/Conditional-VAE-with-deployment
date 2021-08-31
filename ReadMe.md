@@ -1,7 +1,7 @@
-# Project Title
+# Conditional Variational Encoded development and Deployment
 
 ## Table of Contents
-- [Project Title](#project-title)
+- [Conditional Variational Encoded development and Deployment](#conditional-variational-encoded-development-and-deployment)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
